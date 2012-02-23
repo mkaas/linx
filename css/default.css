@@ -1,12 +1,15 @@
-/* 
-    Document   : default
-    Created on : 23-02-2012, 08:50:09
-    Author     : Arakiz
-    Description:
-        Purpose of the stylesheet follows.
-*/
-
-root { 
-    display: block;
+body{
+	background-color: #dcdcdc;
+	color: black;
+	font-family: monospace;
+	font-size: 8px;
+	margin: 0px;
 }
 
+.link{
+	background-color: transparent;
+	color: inherit;
+	font-family: inherit;
+	font-size: 8px;
+	padding-left: 5px;
+}
